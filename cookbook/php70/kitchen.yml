@@ -21,7 +21,7 @@ suites:
   # The name of each suite maps to a configuration / set of tests
   # Depending on the verifier, default locations may be inferred based on
   # directory naming
-  - name: default
+  - name: php70
     includes:
        - ubuntu-16.04 
     verifier:
